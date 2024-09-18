@@ -1,7 +1,6 @@
 <h3 font-weight="bold">Who I Am</h3>
 
-- 👋 Hello, my name is vasylromanyshakllc
-- 👀 I’m interested in and learning the recent web development technologies.
+- 👋 Hello, welcome to vasylromanyshakllc
 - 💞️ I’m looking to collaborate on a full-time remote project for a long-term.
 - 📫 I can work and communicate with you on any timezone you would need me, full-time(24/7).
 
